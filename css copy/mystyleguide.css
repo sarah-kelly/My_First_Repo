@@ -1,0 +1,38 @@
+nav {
+    height: 100px;
+    background-color: lightgrey;
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    padding: 20px;
+  }
+  
+  img {
+    border: 7px solid white;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+  /* target the class of .left below */
+  
+  .left {
+    float: left;
+    height: 500px;
+    background-color: lightblue;
+    width: 30%; 
+    text-align: center;
+  
+  }
+  
+  /* target the class of .right below */
+  
+  .right {
+    float: left;
+    height: 500px;
+    background-color: lightgreen;
+    width: 70%;
+  
+  }
